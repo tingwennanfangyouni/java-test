@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        System.out.println("请输入几个数字：");
+        System.out.println("请输入几个数字哈哈：");
         String s=scanner.nextLine();
         System.out.println("请输入一个数字：");
         String t=scanner.nextLine();
