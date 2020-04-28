@@ -1,8 +1,11 @@
 package com.test;
 
+import java.lang.reflect.Proxy;
+
 public class Test1 {
 
     public static void main(String[] args) {
+
         //创建一个链表
         ListNode listNode1=new ListNode(2);
         ListNode listNode2=new ListNode(4);
